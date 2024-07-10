@@ -15,5 +15,6 @@ Bu projede üretimi yapılacak ürün ile ilgili operasyonların tanımlanması 
 <img src="https://github.com/AysenurBALKAN/ERPOperasyonveUrunAgaciProjesi/blob/main/operasyon_8.png"  width="100%" height="400px">
 <img src="https://github.com/AysenurBALKAN/ERPOperasyonveUrunAgaciProjesi/blob/main/operasyon_9.png"  width="100%" height="400px">
 <img src="https://github.com/AysenurBALKAN/ERPOperasyonveUrunAgaciProjesi/blob/main/operasyon_10.png"  width="100%" height="400px">
+
 ## Ürün Ağacı
 <img src="https://github.com/AysenurBALKAN/ERPOperasyonveUrunAgaciProjesi/blob/main/urun_agaci.png"  width="100%" height="400px">
