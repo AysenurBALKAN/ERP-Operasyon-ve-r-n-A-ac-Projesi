@@ -5,14 +5,14 @@ Bu projede üretimi yapılacak ürün ile ilgili operasyonların tanımlanması 
 ## Yapılan İşlemler
 
 
-<img src="https://github.com/AysenurBALKAN/ERPUretimPlanlama/blob/main/m%C3%BCsteriTek.PNG" width="100%" height="350px">
-<img src="https://github.com/AysenurBALKAN/ERPUretimPlanlama/blob/main/m%C3%BCsterisip.PNG" width="100%" height="350px">
-<img src="https://github.com/AysenurBALKAN/ERPUretimPlanlama/blob/main/mlzihtiyac.PNG" width="100%" height="350px">
-<img src="https://github.com/AysenurBALKAN/ERPUretimPlanlama/blob/main/sat%C4%B1nalmasip.PNG" width="100%" height="350px">
-<img src="https://github.com/AysenurBALKAN/ERPUretimPlanlama/blob/main/sat%C4%B1nalmakab.PNG" width="100%" height="350px">
-<img src="https://github.com/AysenurBALKAN/ERPUretimPlanlama/blob/main/m%C3%BChihsiparis.PNG" width="100%" height="350px">
-<img src="https://github.com/AysenurBALKAN/ERPUretimPlanlama/blob/main/kiosk.PNG" width="100%" height="350px">
-<img src="https://github.com/AysenurBALKAN/ERPUretimPlanlama/blob/main/kiosk2.PNG" width="100%" height="350px">
-<img src="https://github.com/AysenurBALKAN/ERPUretimPlanlama/blob/main/kiosk3.PNG" width="100%" height="350px">
-<img src="https://github.com/AysenurBALKAN/ERPUretimPlanlama/blob/main/sevkiyat.PNG" width="100%" height="350px">
-<img src="https://github.com/AysenurBALKAN/ERPUretimPlanlama/blob/main/maliyethes.PNG" width="100%" height="350px">
+<img src="https://github.com/AysenurBALKAN/ERPOperasyonveUrunAgaciProjesi/blob/main/operasyon_1.png" width="100%" height="350px">
+<img src="https://github.com/AysenurBALKAN/ERPOperasyonveUrunAgaciProjesi/blob/main/operasyon_2.png" width="100%" height="350px">
+<img src="https://github.com/AysenurBALKAN/ERPOperasyonveUrunAgaciProjesi/blob/main/operasyon_3.png" width="100%" height="350px">
+<img src="https://github.com/AysenurBALKAN/ERPOperasyonveUrunAgaciProjesi/blob/main/operasyon_4.png" width="100%" height="350px">
+<img src="https://github.com/AysenurBALKAN/ERPOperasyonveUrunAgaciProjesi/blob/main/operasyon_5.png" width="100%" height="350px">
+<img src="https://github.com/AysenurBALKAN/ERPOperasyonveUrunAgaciProjesi/blob/main/operasyon_6.png" width="100%" height="350px">
+<img src="https://github.com/AysenurBALKAN/ERPOperasyonveUrunAgaciProjesi/blob/main/operasyon_7.png" width="100%" height="350px">
+<img src="https://github.com/AysenurBALKAN/ERPOperasyonveUrunAgaciProjesi/blob/main/operasyon_8.png" width="100%" height="350px">
+<img src="https://github.com/AysenurBALKAN/ERPOperasyonveUrunAgaciProjesi/blob/main/operasyon_9.png" width="100%" height="350px">
+<img src="https://github.com/AysenurBALKAN/ERPOperasyonveUrunAgaciProjesi/blob/main/operasyon_10.png" width="100%" height="350px">
+<img src="https://github.com/AysenurBALKAN/ERPOperasyonveUrunAgaciProjesi/blob/main/urun_agaci.png" width="100%" height="350px">
