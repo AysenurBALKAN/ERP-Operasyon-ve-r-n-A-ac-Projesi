@@ -1,4 +1,4 @@
-# ERP Üretim Planlama Projesi
+# ERP Operasyon ve Ürün Ağacı Projesi
 
 Bu projede üretimi yapılacak ürün ile ilgili operasyonların tanımlanması ve ürün ağacının oluşturulması süreci yer alır.
 
