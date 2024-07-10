@@ -8,7 +8,7 @@ Masa Montaj İşlemi
 <img src="https://github.com/AysenurBALKAN/ERPOperasyonveUrunAgaciProjesi/blob/main/operasyon_1.png" width="100%" height="400px">
 
 Masa İskelet Montaj İşlemi
-<img src="https://github.com/AysenurBALKAN/ERPOperasyonveUrunAgaciProjesi/blob/main/operasyon_2.png" width="100%" height="400px>
+<img src="https://github.com/AysenurBALKAN/ERPOperasyonveUrunAgaciProjesi/blob/main/operasyon_2.png" width="100%" height="400px">
 
 
   Levha Kesim İşlemi
